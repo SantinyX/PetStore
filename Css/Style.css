@@ -84,6 +84,33 @@ header {
 
 /*-----------------MAIN--------------------*/
 
+.condicoes {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
 
+.all-inf {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    gap: 10px;
+    align-items: center;
+    text-align: left;
+}
 
+.caminhao {
+    width: 70px;
+}
 
+.cartao {
+    width: 50px;
+}
+
+.contato {
+    width: 50px;
+}
+
+.compra {
+    width: 50px;
+}
