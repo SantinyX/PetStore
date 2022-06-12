@@ -29,10 +29,10 @@ header {
 }
 
 .search {
-    width: 500px;
-    height: 30px;
-    border-radius: 5px;
-    font-size: 10px;    
+    width: 570px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 15px;    
 }
 
 .Lupa {
@@ -62,8 +62,7 @@ header {
 }
 
 .imagem-carrinho {
-    display: flex;
-    width: 50px;    
+    width: 50px;       
 }
 
 .Text-Carrinho {
@@ -79,14 +78,14 @@ header {
 .Text-carrinho {
     display: flex;
     flex-direction: column;
-    padding: 10px;
+    padding: 5px;
 }
 
 /*-----------------MAIN--------------------*/
 
 .condicoes {
     display: flex;
-    gap: 30px;
+    gap: 155px;
     justify-content: center;
 }
 
